@@ -1,0 +1,62 @@
+.css-levciy-MuiTablePagination-displayedRows {
+    margin: auto !important;
+}
+
+.css-pdct74-MuiTablePagination-selectLabel {
+    margin: auto !important;
+}
+
+/* Data Grid Footer */
+.css-17jjc08-MuiDataGrid-footerContainer {
+    background-color: #deebff;
+}
+
+/* Data Grid Row Selection */
+.css-1e2bxag-MuiDataGrid-root .MuiDataGrid-cell:focus-within {
+    outline: none !important;
+}
+
+video {
+    width: 100%;
+    height: auto;
+}
+
+/* Audio Recorder Upload and Clear button */
+/* ._1ceqH ._1Yplu {
+    display: none !important;
+    margin: 0px 0px !important;
+} */
+
+/* Audio Recorder Upload Button */
+._1ceqH ._1Yplu ._37kfa[disabled] {
+    display: none !important;
+}
+
+/* Audio Recorder Clear button */
+._1ceqH ._1Yplu ._2gd2_ {
+    background: #fff !important;
+    color: #1976d2 !important;
+    margin-left: 0px !important;
+    border-radius: 4px !important;
+}
+
+/* Audio Recorder Text */
+._1ceqH ._1YOWG ._eV_dK {
+    display: none !important;
+}
+
+/* Audio Recorder Background */
+._1ceqH ._3bC73 {
+    background-color: #1976d2 !important;
+}
+
+/* Audio Recorder Save Button */
+._1ceqH ._qxztz ._1bSom {
+    background: #9c27b0 !important;
+}
+
+/* Audio Recorder Pause Button */
+._1ceqH ._qxztz ._3nQu5 {
+    background: #ed6c02 !important;
+    position: relative;
+}
